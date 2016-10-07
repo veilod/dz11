@@ -59,3 +59,6 @@ $bgcolor_default = 'red';
 </body>
 
 </html>
+
+
+<!--http://www.myfirstsite.ru/articles/cookie-in-php-->
